@@ -24,7 +24,7 @@ A partir desses recursos, governos, plataformas digitais e agências de checagem
 
 | Fonte | Tipo de Dados | Forma de Coleta |
 |-------|---------------|-----------------|
-| Fake News Classification | Estruturados | [ Download Kaggle |
+| Fake News Classification | Estruturados | | Download Kaggle |
 | fake-and-real-news-dataset | Estruturados | Download Kaggle |
 
 ---
