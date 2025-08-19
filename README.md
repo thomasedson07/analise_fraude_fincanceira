@@ -9,13 +9,14 @@ Este repositório contém a entrega do projeto de parceria **Semantix**, que env
 ## 🔎 1. Problema
 
 **Descrição:**  
-[Escreva aqui de forma resumida o problema escolhido. Exemplo: “A disseminação de fake news em redes sociais e seu impacto na opinião pública.”]
-
+Nas últimas décadas, as redes sociais se consolidaram como uma das principais formas de acesso à informação. No entanto, esse ambiente também se tornou fértil para a disseminação de fake news e conteúdos manipulados, que circulam em grande velocidade e alcançam milhões de pessoas antes mesmo de serem verificados. A desinformação não apenas afeta a percepção individual, mas influencia processos democráticos, decisões de saúde pública e a própria estabilidade social.
 **Importância:**  
-[Explique em poucas linhas por que esse problema é relevante para a sociedade, política, economia ou saúde.]
+A propagação de desinformação tem consequências graves. Em contextos eleitorais, pode comprometer a legitimidade das escolhas políticas. Na saúde, informações falsas sobre vacinas ou tratamentos colocam vidas em risco. Em emergências globais, como a pandemia da COVID-19, notícias enganosas amplificaram o medo e dificultaram a adoção de medidas preventivas. Dessa forma, entender e combater a desinformação não é apenas uma questão tecnológica, mas também um desafio ético, social e político de grande relevância.
 
 **Como a análise de dados ajuda:**  
-[Resuma como a análise de dados pode apoiar a mitigação ou solução do problema.]
+A análise de dados desempenha um papel essencial no enfrentamento dessa problemática. Com técnicas de processamento de linguagem natural (NLP), é possível identificar padrões em textos suspeitos, classificando-os como informativos, opinativos ou potencialmente falsos. O uso de redes complexas permite mapear a disseminação de conteúdos e detectar perfis ou grupos que atuam como "super disseminadores" de desinformação. Além disso, métodos de machine learning podem ser treinados com bases de dados verificadas para automatizar a detecção de fake news em tempo real.
+
+A partir desses recursos, governos, plataformas digitais e agências de checagem podem agir de forma mais rápida e eficaz, sinalizando conteúdos duvidosos, reduzindo seu alcance e promovendo informações verificadas. Assim, a análise de dados não elimina a desinformação, mas oferece ferramentas concretas para reduzir seu impacto e proteger a sociedade.
 
 ---
 
@@ -23,8 +24,8 @@ Este repositório contém a entrega do projeto de parceria **Semantix**, que env
 
 | Fonte | Tipo de Dados | Forma de Coleta |
 |-------|---------------|-----------------|
-| [Nome do dataset 1] | Estruturados/Não estruturados | [Ex: Download Kaggle, API, etc.] |
-| [Nome do dataset 2] | Estruturados/Não estruturados | [Ex: Scraping, BigQuery, etc.] |
+| Fake News Classification | Estruturados | [ Download Kaggle |
+| fake-and-real-news-dataset | Estruturados | Download Kaggle |
 
 ---
 
@@ -32,7 +33,6 @@ Este repositório contém a entrega do projeto de parceria **Semantix**, que env
 
 - **Python** (pandas, matplotlib, seaborn, nltk, etc.)
 - **PySpark** para manipulação de grandes volumes de dados
-- **SQL** (BigQuery) para consultas
 - **Google Looker Studio** para visualizações
 - **Google Planilhas** para análises rápidas e consolidação
 
@@ -66,5 +66,3 @@ O dashboard interativo pode ser acessado no link:
 No diretório [`/dashboard`](./dashboard) há **prints** de exemplo.
 
 ---
-
-## 📑 7. Estrutura do Repositório
