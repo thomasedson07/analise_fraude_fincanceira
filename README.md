@@ -1,6 +1,4 @@
-# analise_fake_news
-
-# 📊 Projeto de Análise de Dados — [Tema do seu projeto]
+# 📊 Projeto de Análise de Dados —  analise_fake_news
 
 Este repositório contém a entrega do projeto de parceria **Semantix**, que envolve a análise de dados aplicada a um problema real e relevante da sociedade.
 
