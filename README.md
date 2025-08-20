@@ -7,10 +7,12 @@ Este repositório contém a entrega do projeto de parceria **Semantix**, que env
 ## 🔎 1. Problema
 
 **Descrição:**  
+
 Fraudes financeiras são práticas ilícitas em que indivíduos ou grupos criminosos manipulam ou falsificam informações para obter ganhos econômicos de forma ilegal. Essas fraudes ocorrem principalmente em cartões de crédito, transferências bancárias, empréstimos online e compras em plataformas digitais.
 Com o avanço da tecnologia e a digitalização dos serviços financeiros, os criminosos utilizam métodos cada vez mais sofisticados, como roubo de identidade, clonagem de cartões e uso de bots automatizados. Além disso, o grande volume de transações diárias torna extremamente difícil a detecção manual dessas práticas, possibilitando que golpes passem despercebidos.
 
-**Importância:**  
+**Importância:** 
+
 A relevância do combate a fraudes financeiras é enorme, tanto no contexto econômico quanto social:
 
 Econômico: Estima-se que bilhões de dólares sejam perdidos anualmente em fraudes bancárias no mundo, causando prejuízos diretos a instituições financeiras e clientes.
@@ -20,6 +22,7 @@ Social: Consumidores que sofrem fraudes enfrentam consequências como perda de d
 Institucional: A confiança do público em bancos, fintechs e sistemas de pagamento digital depende diretamente da segurança das transações. Se os clientes não se sentirem protegidos, a adesão a novas tecnologias financeiras diminui.
 
 **Como a análise de dados ajuda:**  
+
 A análise de dados surge como ferramenta central para a prevenção e mitigação de fraudes financeiras:
 
 Detecção de anomalias: algoritmos de machine learning analisam padrões de comportamento em transações (valores, horários, localização geográfica) e identificam atividades fora do padrão esperado, sinalizando possíveis fraudes.
