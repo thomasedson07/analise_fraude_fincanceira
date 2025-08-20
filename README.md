@@ -1,4 +1,4 @@
-# 📊 Projeto de Análise de Dados —  analise_fake_news
+# 📊 Projeto de Análise de Dados —  Fraudes Financeiras
 
 Este repositório contém a entrega do projeto de parceria **Semantix**, que envolve a análise de dados aplicada a um problema real e relevante da sociedade.
 
@@ -7,23 +7,37 @@ Este repositório contém a entrega do projeto de parceria **Semantix**, que env
 ## 🔎 1. Problema
 
 **Descrição:**  
-Nas últimas décadas, as redes sociais se consolidaram como uma das principais formas de acesso à informação. No entanto, esse ambiente também se tornou fértil para a disseminação de fake news e conteúdos manipulados, que circulam em grande velocidade e alcançam milhões de pessoas antes mesmo de serem verificados. A desinformação não apenas afeta a percepção individual, mas influencia processos democráticos, decisões de saúde pública e a própria estabilidade social.
+Fraudes financeiras são práticas ilícitas em que indivíduos ou grupos criminosos manipulam ou falsificam informações para obter ganhos econômicos de forma ilegal. Essas fraudes ocorrem principalmente em cartões de crédito, transferências bancárias, empréstimos online e compras em plataformas digitais.
+Com o avanço da tecnologia e a digitalização dos serviços financeiros, os criminosos utilizam métodos cada vez mais sofisticados, como roubo de identidade, clonagem de cartões e uso de bots automatizados. Além disso, o grande volume de transações diárias torna extremamente difícil a detecção manual dessas práticas, possibilitando que golpes passem despercebidos.
+
 **Importância:**  
-A propagação de desinformação tem consequências graves. Em contextos eleitorais, pode comprometer a legitimidade das escolhas políticas. Na saúde, informações falsas sobre vacinas ou tratamentos colocam vidas em risco. Em emergências globais, como a pandemia da COVID-19, notícias enganosas amplificaram o medo e dificultaram a adoção de medidas preventivas. Dessa forma, entender e combater a desinformação não é apenas uma questão tecnológica, mas também um desafio ético, social e político de grande relevância.
+A relevância do combate a fraudes financeiras é enorme, tanto no contexto econômico quanto social:
+
+Econômico: Estima-se que bilhões de dólares sejam perdidos anualmente em fraudes bancárias no mundo, causando prejuízos diretos a instituições financeiras e clientes.
+
+Social: Consumidores que sofrem fraudes enfrentam consequências como perda de dinheiro, dificuldades para recuperar crédito e até traumas emocionais.
+
+Institucional: A confiança do público em bancos, fintechs e sistemas de pagamento digital depende diretamente da segurança das transações. Se os clientes não se sentirem protegidos, a adesão a novas tecnologias financeiras diminui.
 
 **Como a análise de dados ajuda:**  
-A análise de dados desempenha um papel essencial no enfrentamento dessa problemática. Com técnicas de processamento de linguagem natural (NLP), é possível identificar padrões em textos suspeitos, classificando-os como informativos, opinativos ou potencialmente falsos. O uso de redes complexas permite mapear a disseminação de conteúdos e detectar perfis ou grupos que atuam como "super disseminadores" de desinformação. Além disso, métodos de machine learning podem ser treinados com bases de dados verificadas para automatizar a detecção de fake news em tempo real.
+A análise de dados surge como ferramenta central para a prevenção e mitigação de fraudes financeiras:
 
-A partir desses recursos, governos, plataformas digitais e agências de checagem podem agir de forma mais rápida e eficaz, sinalizando conteúdos duvidosos, reduzindo seu alcance e promovendo informações verificadas. Assim, a análise de dados não elimina a desinformação, mas oferece ferramentas concretas para reduzir seu impacto e proteger a sociedade.
+Detecção de anomalias: algoritmos de machine learning analisam padrões de comportamento em transações (valores, horários, localização geográfica) e identificam atividades fora do padrão esperado, sinalizando possíveis fraudes.
 
+Monitoramento em tempo real: sistemas baseados em Big Data processam milhões de operações instantaneamente, bloqueando ou notificando transações suspeitas antes mesmo de sua conclusão.
+
+Modelos preditivos: ao utilizar dados históricos de transações fraudulentas, é possível treinar modelos para prever a probabilidade de fraude em novas operações.
+
+Análise de redes sociais e conexões: técnicas de graph analysis permitem identificar redes de criminosos que compartilham dados ou agem em grupo.
+
+Automação de auditorias: reduz custos com verificações manuais, liberando equipes para focarem em casos mais complexos.
 ---
 
 ## 📂 2. Fontes de Dados
 
 | Fonte | Tipo de Dados | Forma de Coleta |
 |-------|---------------|-----------------|
-| Fake News Classification | Estruturados | Download Kaggle |
-| fake-and-real-news-dataset | Estruturados | Download Kaggle |
+| Credit Card Fraud Detection | Estruturados | Download Kaggle |
 
 ---
 
