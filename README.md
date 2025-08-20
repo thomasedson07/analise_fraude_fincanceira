@@ -13,11 +13,9 @@ Com o avanço da tecnologia e a digitalização dos serviços financeiros, os cr
 
 **Importância:** 
 
-A relevância do combate a fraudes financeiras é enorme, tanto no contexto econômico quanto social:
+A relevância do combate a fraudes financeiras é enorme, tanto no contexto econômico quanto institucional:
 
 Econômico: Estima-se que bilhões de dólares sejam perdidos anualmente em fraudes bancárias no mundo, causando prejuízos diretos a instituições financeiras e clientes.
-
-Social: Consumidores que sofrem fraudes enfrentam consequências como perda de dinheiro, dificuldades para recuperar crédito e até traumas emocionais.
 
 Institucional: A confiança do público em bancos, fintechs e sistemas de pagamento digital depende diretamente da segurança das transações. Se os clientes não se sentirem protegidos, a adesão a novas tecnologias financeiras diminui.
 
