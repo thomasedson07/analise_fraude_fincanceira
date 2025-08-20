@@ -54,20 +54,19 @@ Automação de auditorias: reduz custos com verificações manuais, liberando eq
 ## 📊 4. Análise Exploratória de Dados (EDA)
 
 Etapas realizadas:
-1. **Limpeza e pré-processamento** (remoção de duplicados, padronização de colunas, tratamento de valores ausentes).
-2. **Análise descritiva** (estatísticas básicas, distribuições, médias, medianas).
-3. **Identificação de variáveis importantes** (correlações, palavras mais frequentes, padrões de disseminação).
+**Limpeza e pré-processamento** (remoção de duplicados e tratamento de valores ausentes).
+**Análise descritiva** (distribuições, médias, medianas).
 
-Notebooks disponíveis em [https://colab.research.google.com/drive/1ADFtjV31fGhhn718HGHTkRbSAGKMthRE?usp=sharing].
+Notebook disponívei em [https://colab.research.google.com/drive/1ADFtjV31fGhhn718HGHTkRbSAGKMthRE?usp=sharing].
 
 ---
 
 ## 💡 5. Relatório de Insights
 
 Principais achados:
-- Insight 1: [exemplo → A maioria das notícias falsas coletadas tratava sobre saúde.]  
-- Insight 2: [exemplo → O engajamento médio de fake news foi maior do que de notícias reais.]  
-- Insight 3: [escreva aqui seus principais achados]
+- Insight 1: [Desbalanceamento extremo: Apenas 0,17% das transações são fraudulentas.]  
+- Insight 2: [Padrões em variáveis: Certas variáveis transformadas pelo PCA (ex.: V14, V17) apresentam diferenças estatísticas expressivas entre fraudes e transações normais.]  
+- Insight 3: [Distribuição temporal: As fraudes não seguem horas ou dias expecificos.]
 
 ---
 
