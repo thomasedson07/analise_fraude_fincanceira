@@ -58,7 +58,7 @@ Etapas realizadas:
 2. **Análise descritiva** (estatísticas básicas, distribuições, médias, medianas).
 3. **Identificação de variáveis importantes** (correlações, palavras mais frequentes, padrões de disseminação).
 
-Notebooks disponíveis em [`/notebooks`](./notebooks).
+Notebooks disponíveis em [https://colab.research.google.com/drive/1ADFtjV31fGhhn718HGHTkRbSAGKMthRE].
 
 ---
 
