@@ -44,7 +44,7 @@ Automação de auditorias: reduz custos com verificações manuais, liberando eq
 
 ## 🛠️ 3. Ferramentas Utilizadas
 
-- **Python** (pandas, matplotlib, seaborn, nltk, etc.)
+- **Python** liguagem usada
 - **PySpark** para manipulação de grandes volumes de dados
 - **Google Looker Studio** para visualizações
 - **Google Planilhas** para análises rápidas e consolidação
@@ -64,7 +64,7 @@ Notebook disponívei em [https://colab.research.google.com/drive/1ADFtjV31fGhhn7
 ## 💡 5. Relatório de Insights
 
 Principais achados:
-- Insight 1: [Desbalanceamento extremo: Apenas 0,17% das transações são fraudulentas.]  
+- Insight 1: [Desbalanceamento extremo: Apenas 0,16% das transações são fraudulentas.]  
 - Insight 2: [Padrões em variáveis: Certas variáveis transformadas pelo PCA (ex.: V14, V17) apresentam diferenças estatísticas expressivas entre fraudes e transações normais.]  
 - Insight 3: [Distribuição temporal: As fraudes não seguem horas ou dias expecificos.]
 
@@ -73,8 +73,6 @@ Principais achados:
 ## 📊 6. Dashboard no Looker Studio
 
 O dashboard interativo pode ser acessado no link:  
-👉 [Link do Dashboard](URL_DO_LOOKER)
-
-No diretório [`/dashboard`](./dashboard) há **prints** de exemplo.
+👉 [Link do Dashboard](https://lookerstudio.google.com/s/j0huWrI2Q_k)
 
 ---
