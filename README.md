@@ -57,7 +57,7 @@ Etapas realizadas:
 **Limpeza e pré-processamento** (remoção de duplicados e tratamento de valores ausentes).
 **Análise descritiva** (distribuições, médias, medianas).
 
-Notebook disponívei em [https://colab.research.google.com/drive/1ADFtjV31fGhhn718HGHTkRbSAGKMthRE?usp=sharing].
+  Notebook disponívei em [Link do Notebook](https://colab.research.google.com/drive/1ADFtjV31fGhhn718HGHTkRbSAGKMthRE?usp=sharing).
 
 ---
 
