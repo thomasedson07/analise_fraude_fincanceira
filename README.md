@@ -57,7 +57,7 @@ Etapas realizadas:
 **Limpeza e pré-processamento** (remoção de duplicados e tratamento de valores ausentes).
 **Análise descritiva** (distribuições, médias, medianas).
 
-  Notebook disponívei em [Link do Notebook](https://colab.research.google.com/drive/1ADFtjV31fGhhn718HGHTkRbSAGKMthRE?usp=sharing).
+  Notebook disponívei em [Notebook](https://colab.research.google.com/drive/1ADFtjV31fGhhn718HGHTkRbSAGKMthRE?usp=sharing).
 
 ---
 
@@ -73,6 +73,6 @@ Principais achados:
 ## 📊 6. Dashboard no Looker Studio
 
 O dashboard interativo pode ser acessado no link:  
-👉 [Link do Dashboard](https://lookerstudio.google.com/s/j0huWrI2Q_k)
+👉 [Dashboard](https://lookerstudio.google.com/s/j0huWrI2Q_k)
 
 ---
