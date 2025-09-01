@@ -73,6 +73,6 @@ Principais achados:
 ## 📊 6. Dashboard no Looker Studio
 
 O dashboard interativo pode ser acessado no link:  
-👉 [Dashboard](https://lookerstudio.google.com/s/j0huWrI2Q_k)
+👉 [Dashboard](https://lookerstudio.google.com/reporting/24ab7934-7569-4e70-8e82-286d5ae07ada)
 
 ---
